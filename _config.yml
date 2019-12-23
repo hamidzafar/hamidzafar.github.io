@@ -2,3 +2,6 @@ theme: jekyll-theme-leap-day
 
 title: Hamid Zafar
 description: Enthusiastic about computer science and chess
+
+# Google Analytics
+google_analytics: UA-154897140-1
